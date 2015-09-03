@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MicroServiceExpression:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MicroServiceExpression.war">
+      <element id="artifact" artifact-name="MicroServiceExpression:war exploded" />
+    </root>
+  </artifact>
+</component>
