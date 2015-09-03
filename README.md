@@ -1,5 +1,5 @@
 # MicroServiceExpression
-MicroService Architecture example: A service which solved simple Arithmetic Expression operation ((a+b) * (a+b)) 
+MicroService Architecture example: A service which solved simple Arithmetic Expression operation `((a+b) * (a+b))` 
 
 
 What it Does?
