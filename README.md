@@ -12,3 +12,9 @@ Prerequisites
 ===============
 [MicroServiceAdd](https://github.com/asifsid88/MicroServiceAdd)  
 [MicroServiceMultiply](https://github.com/asifsid88/MicroServiceMultiply)
+
+
+How to Use
+===========
+Deploy service on any application server `say tomcat`  
+Hit service: `<host>:<port>/microservice/expression/v1/addmuliply/{a}/{b}`
